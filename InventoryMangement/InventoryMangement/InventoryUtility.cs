@@ -10,9 +10,30 @@ namespace InventoryMangement
         public List<Wheat> WheatList { get; set; }
         public List<Pulse> PulseList { get; set; }
 
+        public class Rice
+        {
+            public string Name
+            {
+                get;
+                set;
+            }
+            public int Price
+            {
+                get;
+                set;
+            }
+            public int Kg
+            {
+                get;
+                set;
+            }
 
-
-
+            public string Type
+            {
+                get;
+                set;
+            }
+        }
         public class Pulse
         {
             public string Name
@@ -39,31 +60,6 @@ namespace InventoryMangement
         }
 
         public class Wheat
-        {
-            public string Name
-            {
-                get;
-                set;
-            }
-            public int Price
-            {
-                get;
-                set;
-            }
-            public int Kg
-            {
-                get;
-                set;
-            }
-
-            public string Type
-            {
-                get;
-                set;
-            }
-        }
-
-        public class Rice
         {
             public string Name
             {

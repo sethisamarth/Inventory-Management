@@ -8,10 +8,12 @@ namespace InventoryMangement
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Inventory");
+
             Console.WriteLine("Welcome to inventory");
             InventoryManager manager = new InventoryManager();
+            // adding json file 
             string file = @"C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\json1.json";
+            //Deserialize
             InventoryUtility utility = JsonConvert.DeserializeObject<InventoryUtility>(File.ReadAllText(file));
             Console.WriteLine("Display inventory Press 1-Rice Inventory 2-Wheat Inventory 3-Pulse Inventory ");
             int ch = Convert.ToInt32(Console.ReadLine());
