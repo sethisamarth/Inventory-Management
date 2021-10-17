@@ -1,0 +1,63 @@
+{
+  "RiceList": [
+    {
+      "Name": "Basmati",
+      "Kg": 5,
+      "Price": 45,
+      "Type": "long"
+    },
+    {
+      "Name": "Jasmine",
+      "Kg": 8,
+      "Price": 50,
+      "Type": "Small"
+    },
+    {
+      "Name": "BrownRice",
+      "Kg": 7,
+      "Price": 110,
+      "Type": "long"
+    }
+  ],
+  "pulselist": [
+    {
+      "Name": "chickpea",
+      "Kg": 5,
+      "Price": 120,
+      "Type": "small"
+    },
+    {
+      "Name": "ButterBean",
+      "Kg": 8,
+      "Price": 160,
+      "Type": "long"
+    },
+    {
+      "Name": "borlotti",
+      "Kg": 7,
+      "Price": 150,
+      "Type": "thin"
+    }
+  ],
+  "wheatlist": [
+    {
+      "Name": "Durum",
+      "Kg": 2,
+      "Price": 35,
+      "Type": "long"
+    },
+    {
+      "Name": "Emmer",
+      "Kg": 3,
+      "Price": 40,
+      "Type": "Small"
+    },
+    {
+      "Name": "Spelt",
+      "Kg": 10,
+      "Price": 50,
+      "Type": "long"
+    }
+  ]
+
+}

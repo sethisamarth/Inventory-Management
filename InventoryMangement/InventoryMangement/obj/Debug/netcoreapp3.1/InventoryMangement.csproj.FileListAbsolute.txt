@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\InventoryMangement.exe
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\InventoryMangement.deps.json
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\InventoryMangement.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\InventoryMangement.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\InventoryMangement.dll
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\InventoryMangement.pdb
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.dll
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.pdb
+C:\Users\Lenovo\Desktop\Inventory Management Application\InventoryMangement\InventoryMangement\obj\Debug\netcoreapp3.1\InventoryMangement.genruntimeconfig.cache
